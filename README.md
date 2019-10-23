@@ -15,8 +15,9 @@
 </br> https://github.com/chyyuu/ucore_os_lab
 </br> https://github.com/LearningOS/rcore_step_by_step
 # 配置环境
-https://pan.baidu.com/s/1Faxk-oZ2bbcmrk0_nThmrQ  提取码：hfvz
+</br>•虚拟机： https://pan.baidu.com/s/1Faxk-oZ2bbcmrk0_nThmrQ  提取码：hfvz
 <br /> 感谢@李可然同学 提供的虚拟硬盘！
+</br>•鼓励：使用docker或自己安装windows/linux双系统（更快更方便）
 
 
 
